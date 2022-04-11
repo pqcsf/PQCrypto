@@ -1,0 +1,11 @@
+{
+  "name": "pqcrypto",
+  "version": "1.0.0",
+  "description": "Integrating post-quantum cryptography into browser-based JS, webassembly and NodeJs.",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "PQCSF",
+  "license": "MIT"
+}

@@ -1,11 +1,21 @@
 {
   "name": "pqcrypto",
-  "version": "1.0.0",
+  "version": "1.0.01",
   "description": "Integrating post-quantum cryptography into browser-based JS, webassembly and NodeJs.",
   "main": "index.js",
   "scripts": {
     
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pqcsf/PQCrypto"
+  },
+  "keywords": [
+    "PQC",
+    "Cryptography",
+    "Public-key cryptography"
+  ],
   "author": "PQCSF",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/pqcsf/PQCrypto"
 }

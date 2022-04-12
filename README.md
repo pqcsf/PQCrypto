@@ -12,6 +12,7 @@ PQCrypto is an open source PQC project with the goal of integrating NIST's ongoi
 2. CRYSTALS-KYBER
 3. NTRU
 4. SABER
+5. NTRU Prime
 
 ### Digital Signature Algorithms
 
